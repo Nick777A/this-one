@@ -1,0 +1,3 @@
+#modules nedded for run programm properly
+aiogram
+pandas
